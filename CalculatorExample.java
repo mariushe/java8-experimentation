@@ -1,6 +1,6 @@
 /**
  * Lambda as return value
-/*
+ */
 class CalculatorExample {
 
   public static void main(String[] args) {
